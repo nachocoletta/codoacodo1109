@@ -1,0 +1,25 @@
+/* css */
+#justify, #otra{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rojo{
+    width: 20%;
+    color: yellow;
+    background-color: red;
+    font-size: 2em;
+    
+    height: 250px;
+    
+}
+
+.negro{
+    width: 20%;
+    color: white;
+    background-color: black;
+    font-size: 2em;
+    height: 250px;
+}
+
+
